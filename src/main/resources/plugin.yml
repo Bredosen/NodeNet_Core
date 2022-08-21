@@ -1,0 +1,7 @@
+name: NodeNetCore
+version: '${project.version}'
+main: node.net.core.NodeNet
+api-version: 1.19
+load: STARTUP
+authors: [ Bredosen ]
+description: NodeNet
